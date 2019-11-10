@@ -2,4 +2,4 @@
 
 [error1.pdf](error1.pdf)
 
-[error2.pdf]("error 2.pdf")
+[error2.pdf](error2.pdf)
